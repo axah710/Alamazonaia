@@ -1,6 +1,8 @@
 # store_app
 
 A new Flutter project.
+Developed a store app with integrated APIs using Postman and crafted a visually appealing UI with Flutter widgets. Robust
+API handling ensured reliability, while features like loading indicators enhanced user experience.
 
 ## Getting Started
 
