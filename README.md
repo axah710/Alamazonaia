@@ -7,17 +7,17 @@ The system design is organized into two main parts: `core` and `features`. Each 
 The `core` directory contains essential modules and utilities that support the fundamental operations of the system.
 
 - **DI (Dependency Injection)**
-  - Utilizes `get_it` for dependency injection. ![Dependency Injection](https://img.icons8.com/ios/20/000000/dependency-injection.png)
+  - Utilizes `get_it` for dependency injection.
 - **Networking**
-  - Handles network operations using `Dio` and `Retrofit`. ![Networking](https://img.icons8.com/ios/20/000000/cloud-connection.png)
+  - Handles network operations using `Dio` and `Retrofit`.
 - **Routing**
-  - Manages the routing of the application. ![Routing](https://img.icons8.com/ios/20/000000/route.png)
+  - Manages the routing of the application.
 - **Helpers**
-  - Contains helper functions and utilities. ![Helpers](https://img.icons8.com/ios/20/000000/toolbox.png)
+  - Contains helper functions and utilities.
 - **Theming**
-  - Manages the application's theming. ![Theming](https://img.icons8.com/ios/20/000000/themes.png)
+  - Manages the application's theming.
 - **Widgets**
-  - Custom widgets used across the application. ![Widgets](https://img.icons8.com/ios/20/000000/widgets.png)
+  - Custom widgets used across the application.
 
 ### Features
 
@@ -27,10 +27,10 @@ The `features` directory includes different modules representing various feature
 
 The `home` module within `features` includes:
 
-- **Data** ![Data](https://img.icons8.com/ios/20/000000/database.png)
+- **Data**
   - **Models:** Data models used in the home feature.
   - **Repository (repo):** Handles data operations and interactions with the data source.
-- **Logic** ![Logic](https://img.icons8.com/ios/20/000000/process.png)
+- **Logic**
   - **Cubit/States:** Manages the state of the home feature using Cubit for state management.
-- **UI** ![UI](https://img.icons8.com/ios/20/000000/user-interface.png)
+- **UI**
   - **Screens/Widgets:** User interface components specific to the home feature.
