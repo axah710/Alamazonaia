@@ -1,36 +1,18 @@
-## System Design
+# store_app
 
-The system design is organized into two main parts: `core` and `features`. Each part contains several components that serve different purposes in the architecture.
+A new Flutter project.
+Developed a store app with integrated APIs using Postman and crafted a visually appealing UI with Flutter widgets. Robust
+API handling ensured reliability, while features like loading indicators enhanced user experience.
 
-### Core
+## Getting Started
 
-The `core` directory contains essential modules and utilities that support the fundamental operations of the system.
+This project is a starting point for a Flutter application.
 
-- **DI (Dependency Injection)**
-  - Utilizes `get_it` for dependency injection.
-- **Networking**
-  - Handles network operations using `Dio` and `Retrofit`.
-- **Routing**
-  - Manages the routing of the application.
-- **Helpers**
-  - Contains helper functions and utilities.
-- **Theming**
-  - Manages the application's theming.
-- **Widgets**
-  - Custom widgets used across the application.
+A few resources to get you started if this is your first Flutter project:
 
-### Features
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-The `features` directory includes different modules representing various features of the application. Each feature is further divided into `data`, `logic`, and `ui`.
-
-#### Home
-
-The `home` module within `features` includes:
-
-- **Data**
-  - **Models:** Data models used in the home feature.
-  - **Repository (repo):** Handles data operations and interactions with the data source.
-- **Logic**
-  - **Cubit/States:** Manages the state of the home feature using Cubit for state management.
-- **UI**
-  - **Screens/Widgets:** User interface components specific to the home feature.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
