@@ -1,10 +1,10 @@
-# Alamazonaia
+# Alamazaia E-Commerce API Project
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![API](https://img.shields.io/badge/API-0052CC?style=for-the-badge&logo=api&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-This repository contains the course materials for building an E-Commerce API using Postman for testing and Flutter for the frontend. The course covers various aspects of API creation, testing, and integration with a Flutter-based UI.
+This repository contains the Alamazaia E-Commerce API project, which leverages Postman for API testing and Flutter for the frontend. This project covers various aspects of API creation, testing, and integration with a Flutter-based UI.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -24,15 +24,23 @@ This repository contains the course materials for building an E-Commerce API usi
 ## Installation
 
 ### Install Postman
+![Install Postman](https://img.shields.io/badge/Install-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 To get started with API testing, install Postman from [here](https://www.postman.com/downloads/).
 
 ### Store Collection
+![Store Collection](https://img.shields.io/badge/Store-Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 After installing Postman, import the provided Postman collection to start testing the API endpoints.
 
 ## Postman Collection
+![Postman Collection](https://img.shields.io/badge/Postman-Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 The Postman collection contains pre-defined requests for testing all API endpoints. Import it into your Postman to quickly get started.
 
 ## Features
+![Features](https://img.shields.io/badge/Features-0052CC?style=for-the-badge&logo=api&logoColor=white)
+
 - **Product Management**: Create, update, delete, and view products.
 - **Category Management**: Manage product categories.
 - **User Authentication**: Secure API endpoints with user authentication.
@@ -40,12 +48,16 @@ The Postman collection contains pre-defined requests for testing all API endpoin
 - **Error Handling**: Robust error handling and status codes.
 
 ## Business Cases
+![Business Cases](https://img.shields.io/badge/Business-Cases-0052CC?style=for-the-badge&logo=api&logoColor=white)
+
 - **Online Retailers**: Streamline product management and improve customer experience.
 - **Inventory Management**: Efficiently manage stock levels and product details.
 - **Marketplaces**: Provide a robust backend for multi-vendor platforms.
 - **E-Commerce Startups**: Quickly set up and scale an online store with minimal effort.
 
 ## Impact
+![Impact](https://img.shields.io/badge/Impact-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 - **Increased Efficiency**: Simplifies the process of managing products and categories.
 - **Enhanced Security**: Provides secure access to the API with user authentication.
 - **Scalability**: Easily scalable to handle increasing numbers of products and users.
