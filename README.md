@@ -16,7 +16,7 @@ To get started with API testing, install Postman from [here](https://www.postman
 ### Store Collection
 ![Store Collection](https://img.shields.io/badge/Store-Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-After installing Postman, import the provided Postman collection to start testing the API endpoints [here]([https://www.postman.com/downloads/](https://www.getpostman.com/collections/6da0a73ef5587fbe2a42)).
+After installing Postman, import the provided Postman collection to start testing the API endpoints [here](https://www.getpostman.com/collections/6da0a73ef5587fbe2a42).
 
 ## Postman Collection
 ![Postman Collection](https://img.shields.io/badge/Postman-Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
