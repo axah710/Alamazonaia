@@ -13,16 +13,6 @@ This repository contains the Alamazonaia E-Commerce project, which leverages Pos
 
 To get started with API testing, install Postman from [here](https://www.postman.com/downloads/).
 
-### Store Collection
-![Store Collection](https://img.shields.io/badge/Store-Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-After installing Postman, import the provided Postman collection to start testing the API endpoints.
-
-## Postman Collection
-![Postman Collection](https://img.shields.io/badge/Postman-Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-The Postman collection contains pre-defined requests for testing all API endpoints. Import it into your Postman to quickly get started.
-
 ## Features
 ![Features](https://img.shields.io/badge/Features-0052CC?style=for-the-badge&logo=api&logoColor=white)
 
