@@ -1,10 +1,10 @@
-# Alamazaia E-Commerce API Project
+# Alamazonaia E-Commerce API Project
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![API](https://img.shields.io/badge/API-0052CC?style=for-the-badge&logo=api&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-This repository contains the Alamazaia E-Commerce project, which leverages Postman for API testing and Flutter for the frontend. This project covers various aspects of API creation, testing, and integration with a Flutter-based UI.
+This repository contains the Alamazonaia E-Commerce project, which leverages Postman for API and Flutter . This project covers various aspects of API using, testing, and integration with a Flutter-based UI.
 
 ## Installation
 
@@ -50,7 +50,5 @@ The Postman collection contains pre-defined requests for testing all API endpoin
 - **Error Reduction**: Reduces errors with comprehensive API documentation and robust error handling.
 
 ## Contributing
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome! 
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
