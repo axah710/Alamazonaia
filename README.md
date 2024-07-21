@@ -9,12 +9,10 @@ This repository contains the Alamazonaia E-Commerce project, which leverages Pos
 ## 🚀 Installation
 
 ### Install Postman
-![Install Postman](https://img.shields.io/badge/Install-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 To get started with API testing, install Postman from [here](https://www.postman.com/downloads/).
 
 ## ✨ Features
-![Features](https://img.shields.io/badge/Features-0052CC?style=for-the-badge&logo=api&logoColor=white)
 
 - **🛍️ Product Management**: Create, update, delete, and view products.
 - **📂 Category Management**: Manage product categories.
@@ -23,7 +21,6 @@ To get started with API testing, install Postman from [here](https://www.postman
 - **⚠️ Error Handling**: Robust error handling and status codes.
 
 ## 💼 Business Cases
-![Business Cases](https://img.shields.io/badge/Business-Cases-0052CC?style=for-the-badge&logo=api&logoColor=white)
 
 - **🛒 Online Retailers**: Streamline product management and improve customer experience.
 - **📦 Inventory Management**: Efficiently manage stock levels and product details.
@@ -31,7 +28,6 @@ To get started with API testing, install Postman from [here](https://www.postman
 - **🚀 E-Commerce Startups**: Quickly set up and scale an online store with minimal effort.
 
 ## 🌍 Impact
-![Impact](https://img.shields.io/badge/Impact-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 - **📈 Increased Efficiency**: Simplifies the process of managing products and categories.
 - **🔐 Enhanced Security**: Provides secure access to the API with user authentication.
