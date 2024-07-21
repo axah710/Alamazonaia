@@ -1,4 +1,4 @@
-# 🌐 Alamazonaia E-Commerce API Project
+# 🌐 Alamazonaia E-Commerce
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![API](https://img.shields.io/badge/API-0052CC?style=for-the-badge&logo=api&logoColor=white)
